@@ -1,1 +1,3 @@
-# Quarter4-FA3
+- This is a Laboratory Activity on Module 13.
+- The topic/s covered in this activity is/are data storage
+- https://github.com/EoanElijahMAblas/Quarter4-FA3
